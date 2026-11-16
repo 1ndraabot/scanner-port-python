@@ -1,0 +1,17 @@
+{
+  "host": "192.168.1.12",
+  "scanned": 10000,
+  "elapsed_sec": 50.14,
+  "open": [
+    {
+      "port": 22,
+      "state": "open",
+      "service": "ssh"
+    },
+    {
+      "port": 8000,
+      "state": "open",
+      "service": "unknown"
+    }
+  ]
+}
